@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "sharp_memory_display-rescue")(type "Legacy")(uri "${KIPRJMOD}/sharp_memory_display-rescue.lib")(options "")(descr ""))
+)
