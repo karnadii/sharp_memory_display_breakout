@@ -1,3 +1,11 @@
 (fp_lib_table
-  (lib (name Adafruit_SharpMemoryDisplay)(type KiCad)(uri /Users/karnadi/Downloads/Adafruit-Sharp-Memory-Display-PCBs-master/Adafruit_SharpMemoryDisplay.pretty)(options "")(descr ""))
+  (lib (name "Adafruit_SharpMemoryDisplay")(type "KiCad")(uri "/Users/karnadi/Downloads/Adafruit-Sharp-Memory-Display-PCBs-master/Adafruit_SharpMemoryDisplay.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "/Users/karnadi/kicad/keyboard_library/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "kicad-keyboard-parts")(type "KiCad")(uri "/Users/karnadi/kicad/keyboard_library/kicad-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "sk6812mini-e-1.snapshot")(type "KiCad")(uri "/Users/karnadi/kicad/keyboard_library/sk6812mini-e-1.snapshot.3")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "/Users/karnadi/kicad/keyboard_library/Type-C.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "/Users/karnadi/kicad/keyboard_library/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "WS2812B")(type "KiCad")(uri "/Users/karnadi/kicad/keyboard_library/WS2812B.pretty")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "KiCad")(uri "/Users/karnadi/kicad/keyboard_library/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name "WS2812-2020")(type "KiCad")(uri "/Users/karnadi/kicad/LED/WS2812-2020.pretty")(options "")(descr ""))
 )
