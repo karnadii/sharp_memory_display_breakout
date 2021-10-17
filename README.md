@@ -6,6 +6,10 @@ I have a problem with the fpc connector, the connections seems loose, try using 
 this breakout intent to use as soldered/socketed using pin header or as a daughterboard. if using as a daughter board don't solder the pin header and solder the jst connector. if soldered/socketed just solder the pin header and leave the jst connector, you can break the mounting hole if you want to save some space,the mountung hole is intended for uding it asa a daughter board.
 
 
+running from arduino
 
 https://user-images.githubusercontent.com/18657277/137644641-276d998f-445c-41ad-aaf1-b85f445b7fb1.mp4
 
+running from circuitpython
+
+![https://ae01.alicdn.com/kf/U244e8d4d1993471c84f89b29de7788600.jpg](https://ae01.alicdn.com/kf/U244e8d4d1993471c84f89b29de7788600.jpg)
