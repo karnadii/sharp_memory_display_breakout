@@ -18,13 +18,12 @@ This is the first time I design a pcb just simply looking at datasheet only (the
 
 running from arduino
 
-
 https://user-images.githubusercontent.com/18657277/146429499-8556456f-ffeb-47a3-a99c-73e11da73714.mp4
 
 running from circuitpython
 
 https://user-images.githubusercontent.com/18657277/137644641-276d998f-445c-41ad-aaf1-b85f445b7fb1.mp4
-https://i.imgur.com/RoZQQER.mp4
+
 ![https://ae01.alicdn.com/kf/U244e8d4d1993471c84f89b29de7788600.jpg](https://ae01.alicdn.com/kf/U244e8d4d1993471c84f89b29de7788600.jpg)
 
 
