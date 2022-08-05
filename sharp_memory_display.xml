@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.kicad_sch</source>
-    <date>2021 August 19, Thursday 14:43:02</date>
-    <tool>Eeschema (5.99.0-11678-ga208dac8d8)</tool>
+    <source>/Users/karnadi/Development/PCB/sharp_memory_display_breakout/sharp_memory_display.kicad_sch</source>
+    <date>2022 August 06, Saturday 03:54:32</date>
+    <tool>Eeschema (6.0.5-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -33,7 +33,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C84721"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611a11bf</tstamps>
     </comp>
@@ -46,7 +46,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C15849"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006119eff4</tstamps>
     </comp>
@@ -59,7 +59,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C15849"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006119e125</tstamps>
     </comp>
@@ -67,12 +67,12 @@
       <value>Ferrite_Bead_Small</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
-        <field name="LCSC">0805</field>
+        <field name="LCSC">C1017</field>
       </fields>
       <libsource lib="sharp_memory_display-rescue" part="Ferrite_Bead_Small-Device" description=""/>
-      <property name="LCSC" value="0805"/>
+      <property name="LCSC" value="C1017"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006119938d</tstamps>
     </comp>
@@ -80,12 +80,12 @@
       <value>Ferrite_Bead_Small</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
-        <field name="LCSC">0805</field>
+        <field name="LCSC">C1017</field>
       </fields>
       <libsource lib="sharp_memory_display-rescue" part="Ferrite_Bead_Small-Device" description=""/>
-      <property name="LCSC" value="0805"/>
+      <property name="LCSC" value="C1017"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061197fb0</tstamps>
     </comp>
@@ -94,7 +94,7 @@
       <footprint>MountingHole:MountingHole_2.2mm_M2_DIN965_Pad</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611cafbe</tstamps>
     </comp>
@@ -103,7 +103,7 @@
       <footprint>MountingHole:MountingHole_2.2mm_M2_DIN965_Pad</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611caa6b</tstamps>
     </comp>
@@ -112,7 +112,7 @@
       <footprint>MountingHole:MountingHole_2.2mm_M2_DIN965_Pad</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611caca4</tstamps>
     </comp>
@@ -121,7 +121,7 @@
       <footprint>MountingHole:MountingHole_2.2mm_M2_DIN965_Pad</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611cb254</tstamps>
     </comp>
@@ -130,7 +130,7 @@
       <footprint>Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611985b1</tstamps>
     </comp>
@@ -138,12 +138,12 @@
       <value>Conn_01x10</value>
       <footprint>Connector_FFC-FPC:Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal</footprint>
       <fields>
-        <field name="LCSC">C376059</field>
+        <field name="LCSC">C506791</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x10" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="LCSC" value="C376059"/>
+      <property name="LCSC" value="C506791"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611995dc</tstamps>
     </comp>
@@ -152,9 +152,22 @@
       <footprint>Connector_JST:JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal</footprint>
       <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611d01fb</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x10</value>
+      <footprint>Connector_FFC-FPC:Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C506791</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x10" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C506791"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffcd554b-7538-4995-b7eb-e9238dfe2323</tstamps>
     </comp>
     <comp ref="R1">
       <value>10k</value>
@@ -165,7 +178,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C25804"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611a96b1</tstamps>
     </comp>
@@ -178,9 +191,22 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C25804"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display.sch"/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000611a9b58</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="sharp_memory_display.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7299834-d1dd-4ac9-96ed-89f2af81c86c</tstamps>
     </comp>
   </components>
   <libparts>
@@ -308,48 +334,55 @@
   </libparts>
   <libraries>
     <library logical="Connector">
-      <uri>/Library/Application Support/kicad/library/Connector.kicad_sym</uri>
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
     </library>
     <library logical="Connector_Generic">
-      <uri>/Library/Application Support/kicad/library/Connector_Generic.kicad_sym</uri>
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>/Library/Application Support/kicad/library/Device.kicad_sym</uri>
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
     </library>
     <library logical="Mechanical">
-      <uri>/Library/Application Support/kicad/library/Mechanical.kicad_sym</uri>
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
     </library>
     <library logical="sharp_memory_display-rescue">
-      <uri>/Users/karnadi/Documents/GitHub/sharp_memory_display/sharp_memory_display-rescue.lib</uri>
+      <uri>/Users/karnadi/Development/PCB/sharp_memory_display_breakout/sharp_memory_display-rescue.lib</uri>
     </library>
   </libraries>
   <nets>
     <net code="1" name="DISP">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
     </net>
     <net code="2" name="EXTCOMIN">
       <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
     </net>
     <net code="3" name="EXTMODE">
       <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
     </net>
     <net code="4" name="SCLK">
       <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
     </net>
     <net code="5" name="SCS">
       <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
     </net>
     <net code="6" name="SI">
       <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
     </net>
     <net code="7" name="VDD">
       <node ref="C3" pin="1" pintype="passive"/>
@@ -357,11 +390,14 @@
       <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
     </net>
     <net code="8" name="VDDA">
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="FB1" pin="1" pintype="passive"/>
       <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
     </net>
     <net code="9" name="VSS">
       <node ref="C1" pin="2" pintype="passive"/>
@@ -370,6 +406,7 @@
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
       <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
     </net>
@@ -377,6 +414,7 @@
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="FB2" pin="2" pintype="passive"/>
       <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
   </nets>
 </export>
