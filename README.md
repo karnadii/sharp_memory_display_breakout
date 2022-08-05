@@ -1,5 +1,5 @@
 # LS011B7DH03 Sharp memory display breakout 1.1 inch 160x68
-everything is tested and work without problem. 5 PCBs with assembled component is $16 and 5 pcs [LS011B7DH03](https://www.aliexpress.com/item/1005001809102193.html) is $75 ($15x5), so for one LS011B7DH03 Sharp memory it cost about $18.2 before shipping.
+everything is tested and work without problem. 5 PCBs with assembled component from JLPCB is $16 and 5 pcs [LS011B7DH03](https://www.aliexpress.com/item/1005001809102193.html) is $75 ($15x5), so for one LS011B7DH03 Sharp memory display it cost about $18.2 before shipping.
 
 ![](https://i.imgur.com/EkvLsx7.jpeg)
 ![](https://i.imgur.com/TXG6VWD.jpeg)
