@@ -22,9 +22,9 @@ All text above, must be included in any redistribution
 // Tested using nrfmicro edit your pin according to your controller
 
 // any pins can be used
-#define SHARP_SCK  45 //CLK
-#define SHARP_MOSI 43 //DI
-#define SHARP_SS   10//CS
+#define SHARP_SCK  45 //CLK P1_13
+#define SHARP_MOSI 43 //DI P1_10
+#define SHARP_SS   10//CS P0_10
 
 // nrfmicro pin (32*pin)+gpio
 
