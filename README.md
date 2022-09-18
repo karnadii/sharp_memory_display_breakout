@@ -22,7 +22,7 @@ I intent to use this breakout as soldered or socketed using pin header or as a d
 | FB1,FB2             | 2   | Ferrite Bead                       | 0805      | C1017                                                 |
 | J2                  | 1   | FH12-10S-0.5SH FPC Connector       | -         | C506791                                               |
 | J3                  | 1   | JST SH 5x1 (Optional)              | -         | https://www.aliexpress.com/item/1005003131441676.html |
-| R1,R2,R3            |  3  | 10kΩ Resistor (optional)                     | 0603      | C25804                                                |
+| R1,R2,R3            | 3   | 10kΩ Resistor (optional)           | 0603      | C25804                                                |
 | LS011B7DH03 Display | 1   |            -                       |  -        | https://aliexpress.com/item/1005001809102193.html     |
 
 According to @Nicell the resistors is not required, you can remove all the resistor if you find it not needed. 
@@ -54,3 +54,7 @@ https://user-images.githubusercontent.com/18657277/137644641-276d998f-445c-41ad-
 #### circuitpython
 
 https://user-images.githubusercontent.com/18657277/146429499-8556456f-ffeb-47a3-a99c-73e11da73714.mp4
+
+#### ZMK
+replacing my oled, need to bodge one wire, fortunately I have a lot of free gpio pins.
+![](https://media.discordapp.net/attachments/785533287049330729/1020985541698785380/IMG_20220918_150543.jpg?width=915&height=686)
