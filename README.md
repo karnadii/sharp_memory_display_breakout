@@ -22,10 +22,11 @@ I intent to use this breakout as soldered or socketed using pin header or as a d
 | FB1,FB2             | 2   | Ferrite Bead                       | 0805      | C1017                                                 |
 | J2                  | 1   | FH12-10S-0.5SH FPC Connector       | -         | C506791                                               |
 | J3                  | 1   | JST SH 5x1 (Optional)              | -         | https://www.aliexpress.com/item/1005003131441676.html |
-| R1,R2,R3            |  3  | 10kΩ Resistor                      | 0603      | C25804                                                |
+| R1,R2,R3            |  3  | 10kΩ Resistor (optional)                     | 0603      | C25804                                                |
 | LS011B7DH03 Display | 1   |            -                       |  -        | https://aliexpress.com/item/1005001809102193.html     |
 
-
+According to @Nicell the resistors is not required, you can remove all the resistor if you find it not needed. 
+https://discord.com/channels/719497620560543766/1020985541598138388/1021185829491720302
 
 everything is tested and work without problem. 5 PCBs with assembled component from JLPCB is $16 and 5 pcs [LS011B7DH03](https://www.aliexpress.com/item/1005001809102193.html) is $75 ($15x5), so for one LS011B7DH03 Sharp memory display it cost about $18.2 before shipping.
 
