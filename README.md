@@ -35,7 +35,9 @@ or this [one](https://www.alibaba.com/product-detail/HL-1-08-Inch-Square-Transfl
 
 If you manage to get LS011B7DH03 from alibaba/taobao maybe you can have like $8-$10 a piece. If you manage to mass produce it please do.
 
-there is another breakout board by @crehmann https://github.com/crehmann/Sharp-Memory-LCD-Breakout, but his version has too many pins in my opinion. @nicell the maker of nice!nano planning to produce his own version too called nice!view.  
+there is another breakout board by @crehmann https://github.com/crehmann/Sharp-Memory-LCD-Breakout, but his version has too many pins in my opinion. 
+
+@nicell the maker of nice!nano released [nice!view](https://nicekeyboards.com/nice-view).   
 
 <!-- ![](https://i.imgur.com/EkvLsx7.jpeg)
 ![](https://i.imgur.com/TXG6VWD.jpeg)
@@ -43,7 +45,7 @@ there is another breakout board by @crehmann https://github.com/crehmann/Sharp-M
 
 ### Demo
 
-I have test it with circuitpython and arduino with nrfmicro, it should work too with ZMK Firmware.
+I have test it with circuitpython, arduino and Zhepyr (ZMK) with nrfmicro, the test code is in `test_code` folder.
 #### arduino
 
 https://user-images.githubusercontent.com/18657277/137644641-276d998f-445c-41ad-aaf1-b85f445b7fb1.mp4

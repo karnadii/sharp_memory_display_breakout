@@ -1,0 +1,21 @@
+/dts-v1/;
+#include <nordic/nrf52840_qiaa.dtsi>
+
+&spi0 {
+	status = "okay";
+	compatible = "nordic,nrf-spim";
+	status = "okay";
+	sck-pin = <19>; // CLK pin P0.19
+	mosi-pin = <15>; // DI pin P0.15
+    cs-gpios = <&gpio0 17 GPIO_ACTIVE_HIGH>; // CS pin P0.17 
+	miso-pin = <14>; // Unused PIN (the hardware dob't need it but the firmware require it)
+
+	ls0xx: ls0xx@0 {
+		compatible = "sharp,ls0xx";
+		label = "DISPLAY";
+		spi-max-frequency = <2000000>;
+		reg = <0>;
+		width = <160>;
+		height = <68>;
+	};
+};
