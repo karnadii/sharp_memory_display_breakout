@@ -28,17 +28,26 @@ I intent to use this breakout as soldered or socketed using pin header or as a d
 According to @Nicell the resistors is not required, you can remove all the resistor if you find it not needed. 
 https://discord.com/channels/719497620560543766/1020985541598138388/1021185829491720302
 
-everything is tested and work without problem. 5 PCBs with assembled component from JLPCB is $16 and 5 pcs [LS011B7DH03](https://www.aliexpress.com/item/1005001809102193.html) is $75 ($15x5), so for one LS011B7DH03 Sharp memory display it cost about $18.2 before shipping.
+everything is tested and work without problem.
+
+### Price
+5 PCBs with assembled component from JLPCB is $16 and 5 pcs [LS011B7DH03](https://www.aliexpress.com/item/1005001809102193.html) is $75 ($15x5), so for one LS011B7DH03 Sharp memory display it cost about **$18.2** before shipping.
+
+I think you can get cheaper if you order the components from aliexpress and solder all the components yourself and order from JLPCB the PCB only without assembly, probably $10 for PCB and component, $5 20 pcs PCB and another $5 for the components.
 
 I found cheaper one from  [alibaba](https://www.alibaba.com/product-detail/Sharp-LS011B7DH03-1-1-inch-mono_1600084470004.html?spm=a2700.galleryofferlist.normal_offer.d_image.5b7e535dIAtoXw), a piece cost about $5. but I never order from alibaba. Maybe they require bigger minimum order for cheaper LCD.
 
 or this [one](https://www.alibaba.com/product-detail/HL-1-08-Inch-Square-Transflective_1600473084807.html?spm=a2700.galleryofferlist.normal_offer.d_image.5b7e535dIAtoXw) which is more cheaper but have different footprint for the socket, I believe this one intended to directly solder to PCB unlike this version that use socket for the display. 
 
-If you manage to get LS011B7DH03 from alibaba/taobao maybe you can have like $8-$10 a piece. If you manage to mass produce it please do.
+someone says that the price from alibaba is a fake price, if you message them, they will give you higher price.
+
+Someone from China tell me the price for one LS011B7DH03 or similar memory display in china is 63 CNY ($8.97). So if you can obtain them from china, you can get maybe **$12-$15** a piece for one working LS011B7DH03 breakout.
 
 there is another breakout board by @crehmann https://github.com/crehmann/Sharp-Memory-LCD-Breakout, but his version has too many pins in my opinion. 
 
-@nicell the maker of nice!nano released [nice!view](https://nicekeyboards.com/nice-view).   
+@nicell the maker of nice!nano released [nice!view](https://nicekeyboards.com/nice-view) for **$20** a piece.
+
+Memory display is expensive, but with the battery saving feature of e-paper (~10μA power draw according to nicell) and high refresh rate 30hz, I think it is worth having it especially on one of your main wireless keyboards. At least have one for your main keyboard wether is DIY one like my breakout or nice!view.
 
 <!-- ![](https://i.imgur.com/EkvLsx7.jpeg)
 ![](https://i.imgur.com/TXG6VWD.jpeg)
