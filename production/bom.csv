@@ -1,10 +1,9 @@
-Comment,Designator,Footprint,LCSC Part #
-"560pF/680pF Unpolarized capacitor, small symbol",C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C84721
-"1uF Unpolarized capacitor, small symbol",C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C15849
-"1uF  Unpolarized capacitor, small symbol",C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C15849
-Ferrite_Bead_Small ,"FB1,FB2",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C1017
-MountingHole Mounting Hole without connection,"H1,H2,H3,H4",MountingHole_2.2mm_M2_DIN965_Pad,
-"Conn_01x05 Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",J1,PinSocket_1x05_P2.54mm_Vertical,
-"Conn_01x10 Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)","J2,J4",Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal,C506791
-"Conn_01x05_Male Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",J3,JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal,
-"10k Resistor, small symbol","R1,R2,R3",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+Designator,Footprint,Quantity,Value,LCSC Part #
+C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,560pF/680pF,C84721
+C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,1uF,C15849
+C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,1uF ,C15849
+"FB1, FB2",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,Ferrite_Bead_Small,C1017
+"H1, H2, H3, H4",MountingHole_2.2mm_M2_DIN965_Pad,4,MountingHole,
+J1,PinSocket_1x05_P2.54mm_Vertical,1,Conn_01x05,
+J2,Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal,1,Conn_01x10,C506791
+J3,JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal,1,Conn_01x05_Male,
