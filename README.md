@@ -14,6 +14,8 @@ check [nice-compat-no-mount](https://github.com/karnadii/sharp_memory_display_br
 ![](https://user-images.githubusercontent.com/18657277/194879312-87c62482-2db9-4534-9033-acd872659235.png)
 ![](https://user-images.githubusercontent.com/18657277/194880081-31586033-c024-4c6c-9a80-d86add97a095.png)
 
+Since nice!view is released, in the future there will be more board designed for nice!view. so I redesign the pinout to be compatible with nice!view pinout, if in the future nice!view is run out of stock, mechkey folk will still have an alternative. DIY is sometimes more expensive, buy Nice!View instead of making this yourself https://nicekeyboards.com/nice-view
+
 all of each version gerber, schematic and step files are here https://github.com/karnadii/sharp_memory_display_breakout/releases
 
 ---
