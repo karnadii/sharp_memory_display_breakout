@@ -1,10 +1,22 @@
 # LS011B7DH03 Sharp memory display breakout 1.1 inch 160x68 (3.3v only)
 ---
-
+## Original version
 ![](img/sharp_memory_display-1.png)
 ![](img/sharp_memory_display-2.png)
-![](img/sharp_memory_display-3.png)
 
+## [Nice!view](https://nicekeyboards.com/nice-view) Compatible Pinout Version (With mounting holes) 
+check [nice-compat](https://github.com/karnadii/sharp_memory_display_breakout/tree/niceview-compat) branch
+![](img/sharp_memory_display-1.png)
+![](https://user-images.githubusercontent.com/18657277/194873657-1129d21d-75bb-4b89-be37-b34f9244c195.png)
+
+## [Nice!view](https://nicekeyboards.com/nice-view) Compatible Pinout Version (NO mounting holes) 
+check [nice-compat-no-mount](https://github.com/karnadii/sharp_memory_display_breakout/tree/niceview-compat) branch.
+![](https://user-images.githubusercontent.com/18657277/194879312-87c62482-2db9-4534-9033-acd872659235.png)
+![](https://user-images.githubusercontent.com/18657277/194880081-31586033-c024-4c6c-9a80-d86add97a095.png)
+
+all of each version gerber, schematic and step files are here https://github.com/karnadii/sharp_memory_display_breakout/releases
+
+---
 I design it as small as possible with fewer component than the adafruit memory display using the datasheet and adafruit memory display as a guide. If you Mech Keyboards folk want to replace your i2c 128X32 OLED display, you just need to swap it and add bodge wire for the CLK pin to any available GPIO on your microcontroller. It is compatible with 128X32 OLED display pinout in mind.
 here is a comparison between [nrfmicro](https://github.com/joric/nrfmicro) (promicro size) and 128x32 oled display.
 
