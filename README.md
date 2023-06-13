@@ -16,6 +16,8 @@ check [nice-compat-no-mount](https://github.com/karnadii/sharp_memory_display_br
 
 Since nice!view is released, in the future there will be more board designed for nice!view. so I redesign the pinout to be compatible with nice!view pinout, if in the future nice!view is run out of stock, mechkey folk will still have an alternative. DIY is sometimes more expensive, buy Nice!View instead of making this yourself https://nicekeyboards.com/nice-view
 
+UPDATE: Nice!View Compat version is working, confirmed by some redditor, if your nice!view broken, you can replace it with this with the same config file as nice!view.
+
 all of each version gerber, schematic and step files are here https://github.com/karnadii/sharp_memory_display_breakout/releases
 
 ---
@@ -39,6 +41,8 @@ I intent to use this breakout as soldered or socketed using pin header or as a d
 | R1,R2,R3            | 3   | 10kΩ Resistor (optional)           | 0603      | C25804                                                |
 | LS011B7DH03 Display | 1   |            -                       |  -        | https://aliexpress.com/item/1005001809102193.html     |
 
+Unfortunately there is only one person who sell LS011B7DH03 on aliexpress. If someone have another source than aliexpress, please tell me through issue. Also one out of 3 display I receive is dead. If you don't want to gamble wether you receive a good display or not, just buy [nice!view](https://nicekeyboards.com/nice-view)
+
 According to @Nicell the resistors is not required, you can remove all the resistor if you find it not needed. 
 https://discord.com/channels/719497620560543766/1020985541598138388/1021185829491720302
 
@@ -56,8 +60,6 @@ or this [one](https://www.alibaba.com/product-detail/HL-1-08-Inch-Square-Transfl
 someone says that the price from alibaba is a fake price, if you message them, they will give you higher price.
 
 Someone from China tell me the price for one LS011B7DH03 or similar memory display in china is 63 CNY ($8.97). So if you can obtain them from china, you can get maybe **$12-$15** a piece for one working LS011B7DH03 breakout.
-
-there is another breakout board by @crehmann https://github.com/crehmann/Sharp-Memory-LCD-Breakout, but his version has too many pins in my opinion. 
 
 @nicell the maker of nice!nano released [nice!view](https://nicekeyboards.com/nice-view) for **$20** a piece.
 
