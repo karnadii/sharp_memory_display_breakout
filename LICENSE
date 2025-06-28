@@ -1,24 +1,70 @@
-This is free and unencumbered software released into the public domain.
+CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+**Preamble**
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+CERN has developed this licence to promote collaboration among hardware designers and to provide a legal tool which supports the freedom to use, study, modify, share and distribute hardware designs and products based on those designs. Version 2 of the CERN Open Hardware Licence comes in three variants: this licence, CERN-OHL-P (permissive); and two reciprocal licences: CERN- OHL-W (weakly reciprocal) and CERN-OHL-S (strongly reciprocal).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+The CERN-OHL-P is copyright CERN 2020. Anyone is welcome to use it, in unmodified form only. Use of this Licence does not imply any endorsement by CERN of any Licensor or their designs nor does it imply any involvement by CERN in their development.
 
-For more information, please refer to <https://unlicense.org>
+**1. Definitions**
+
+1.1 'Licence' means this CERN-OHL-P.
+
+1.2 'Source' means information such as design materials or digital code which can be applied to Make or test a Product or to prepare a Product for use, Conveyance or sale, regardless of its medium or how it is expressed. It may include Notices.
+
+1.3 'Covered Source' means Source that is explicitly made available under this Licence.
+
+1.4 'Product' means any device, component, work or physical object, whether in finished or intermediate form, arising from the use, application or processing of Covered Source.
+
+1.5 'Make' means to create or configure something, whether by manufacture, assembly, compiling, loading or applying Covered Source or another Product or otherwise.
+
+1.6 'Notice' means copyright, acknowledgement and trademark notices, references to the location of any Notices, modification notices (subsection 3.3(b)) and all notices that refer to this Licence and to the disclaimer of warranties that are included in the Covered Source.
+
+1.7 'Licensee' or 'You' means any person exercising rights under this Licence.
+
+1.8 'Licensor' means any person who Conveys Covered Source under the terms of this Licence.
+
+1.9 'Convey' means to communicate to the public or distribute.
+
+**2. Applicability**
+
+2.1 This Licence governs the use, copying, modification, Conveying of Covered Source and Products, and the Making of Products. By exercising any right granted under this Licence, You irrevocably accept these terms and conditions.
+
+2.2 This Licence is granted by the Licensor directly to You, and shall apply worldwide and without limitation in time.
+
+2.3 You shall not attempt to restrict by contract or otherwise the rights granted under this Licence to other Licensees.
+
+2.4 This Licence is not intended to restrict fair use, fair dealing, or any other similar right.
+
+**3. Copying, Modifying and Conveying Covered Source**
+
+3.1 You may copy and Convey verbatim copies of Covered Source, in any medium, provided You retain all Notices.
+
+3.2 You may modify Covered Source, other than Notices. You may only delete Notices if they are no longer applicable to the corresponding Covered Source as modified by You and You may add additional Notices applicable to Your modifications.
+
+3.3 You may Convey modified Covered Source, provided that You comply with all of the following conditions:
+(a) You must add a Notice to the modified Covered Source stating that You have modified it, and giving the date of the modification.
+(b) You must add a Notice to the modified Covered Source stating that it is licensed under the terms and conditions of this Licence.
+(c) You must add a Notice to the modified Covered Source indicating the location of the unmodified Covered Source.
+
+**4. Making and Conveying Products**
+
+You may Make Products, and/or Convey them, provided that You ensure that the recipient of the Product has access to any Notices applicable to the Product.
+
+**5. DISCLAIMER AND LIABILITY**
+
+5.1 THE COVERED SOURCE AND ANY PRODUCT ARE PROVIDED 'AS IS' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT ARE DISCLAIMED. IN NO EVENT SHALL ANY LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE COVERED SOURCE OR ANY PRODUCT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+5.2 Nothing in this Licence shall be read so as to limit any liability for fraud, fraudulent misrepresentation, death or personal injury resulting from negligence, or any other liability that cannot be excluded or limited by law.
+
+**6. Patents**
+
+6.1 Subject to the terms and conditions of this Licence, each Licensor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section 6, or where terminated by the Licensor for cause) patent licence to Make, have Made, use, offer to sell, sell, import, and otherwise transfer the Covered Source and Products, where such licence applies only to those patent claims licensable by such Licensor that are necessarily infringed by exercising rights under the Covered Source as Conveyed by that Licensor.
+
+6.2 If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Covered Source or a Product constitutes direct or contributory patent infringement, then any patent licences granted to You under this Licence for that Covered Source shall terminate as of the date such litigation is filed.
+
+**7. General**
+
+7.1 If any provisions of this Licence are or subsequently become invalid or unenforceable for any reason, the remaining provisions shall remain effective.
+
+7.2 You shall not use any of the name (including acronyms and abbreviations), image, or logo by which the Licensor or CERN is known, except where needed to comply with section 3, or where the use is otherwise allowed by law. Any such permitted use shall be factual and shall not be made so as to suggest any kind of endorsement or implication of involvement by the Licensor or its personnel.
