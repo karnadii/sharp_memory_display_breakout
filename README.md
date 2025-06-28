@@ -79,5 +79,3 @@ https://user-images.githubusercontent.com/18657277/137644641-276d998f-445c-41ad-
 ### CircuitPython
 https://user-images.githubusercontent.com/18657277/146429499-8556456f-ffeb-47a3-a99c-73e11da73714.mp4
 
-### ZMK
-![](https://media.discordapp.net/attachments/785533287049330729/1020985541698785380/IMG_20220918_150543.jpg?width=915&height=686)
