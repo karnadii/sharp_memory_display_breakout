@@ -15,9 +15,9 @@ This repository contains a few different versions of the breakout board. Product
 
 This is the original design. It is designed with the pinout of a 128x32 OLED display in mind, making it a potential replacement for common displays used in mechanical keyboards.
 
-### 2. nice!view™ Compatible Versions
+### 2. nice!view Compatible Versions
 
-To support the growing ecosystem around the [nice!view™](https://nicekeyboards.com/nice-view), compatible versions of this breakout are available. These are intended as a DIY alternative if the nice!view™ is out of stock. They use the same pinout and should work with the same ZMK configurations.
+To support the growing ecosystem around the [nice!view](https://nicekeyboards.com/nice-view), compatible versions of this breakout are available. These are intended as a DIY alternative if the nice!view is out of stock. They use the same pinout and should work with the same ZMK configurations.
 
 - **[niceview-compat](https://github.com/karnadii/sharp_memory_display_breakout/tree/niceview-compat)**: Pin-compatible with mounting holes.
   ![](https://user-images.githubusercontent.com/18657277/194873657-1129d21d-75bb-4b89-be37-b34f9244c195.png)
@@ -25,7 +25,7 @@ To support the growing ecosystem around the [nice!view™](https://nicekeyboards
 - **[niceview-compat-no-mount](https://github.com/karnadii/sharp_memory_display_breakout/tree/niceview-compat-no-mount)**: Pin-compatible without mounting holes for a smaller footprint.
   ![](https://user-images.githubusercontent.com/18657277/194879312-87c62482-2db9-4534-9033-acd872659235.png)
 
-> **Note:** This is a DIY project. For a ready-to-use product, consider purchasing the [nice!view™](https://nicekeyboards.com/nice-view) instead.
+> **Note:** This is a DIY project. For a ready-to-use product, consider purchasing the [nice!view](https://nicekeyboards.com/nice-view) instead.
 
 ## Design and Usage
 
@@ -67,7 +67,7 @@ If you need a smaller board, the mounting hole tabs can be carefully broken off.
 
 This is a DIY project. The approximate cost for a single breakout board is **$15 - $20** (before shipping), assuming you order 5 PCBs from a service like JLCPCB and source the displays from AliExpress. Costs can be reduced by sourcing components from cheaper vendors and self-assembly.
 
-For comparison, the pre-built [nice!view™](https://nicekeyboards.com/nice-view) is sold for around $20.
+For comparison, the pre-built [nice!view](https://nicekeyboards.com/nice-view) is sold for around $20.
 
 ## Demos
 
@@ -80,5 +80,4 @@ https://user-images.githubusercontent.com/18657277/137644641-276d998f-445c-41ad-
 https://user-images.githubusercontent.com/18657277/146429499-8556456f-ffeb-47a3-a99c-73e11da73714.mp4
 
 ### ZMK
-Here it is replacing an OLED on a keyboard running ZMK.
 ![](https://media.discordapp.net/attachments/785533287049330729/1020985541698785380/IMG_20220918_150543.jpg?width=915&height=686)
